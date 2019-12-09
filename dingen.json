@@ -1,0 +1,2974 @@
+{
+    "Sheet1": [
+        {
+            "Year": "2013-14",
+            "Accounts": "General Revenue Account",
+            "Accounts_c": "政府一般收入帳目",
+            "Accounts_sc": "政府一般收入帐目"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Bond Fund",
+            "Accounts_c": "債券基金",
+            "Accounts_sc": "债券基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Capital Investment Fund",
+            "Accounts_c": "資本投資基金",
+            "Accounts_sc": "资本投资基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Capital Works Reserve Fund",
+            "Accounts_c": "基本工程儲備基金",
+            "Accounts_sc": "基本工程储备基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Civil Service Pension Reserve Fund",
+            "Accounts_c": "公務員退休金儲備基金",
+            "Accounts_sc": "公务员退休金储备基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Disaster Relief Fund",
+            "Accounts_c": "賑災基金",
+            "Accounts_sc": "赈灾基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Innovation and Technology Fund",
+            "Accounts_c": "創新及科技基金",
+            "Accounts_sc": "创新及科技基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Land Fund",
+            "Accounts_c": "土地基金",
+            "Accounts_sc": "土地基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Loan Fund",
+            "Accounts_c": "貸款基金",
+            "Accounts_sc": "贷款基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Lotteries Fund",
+            "Accounts_c": "獎券基金",
+            "Accounts_sc": "奖券基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Companies Registry Trading Fund",
+            "Accounts_c": "公司註冊處營運基金",
+            "Accounts_sc": "公司注册处营运基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Electrical and Mechanical Services Trading Fund",
+            "Accounts_c": "機電工程營運基金",
+            "Accounts_sc": "机电工程营运基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Land Registry Trading Fund",
+            "Accounts_c": "土地註冊處營運基金",
+            "Accounts_sc": "土地注册处营运基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Office of the Communications Authority Trading Fund",
+            "Accounts_c": "通訊事務管理局營運基金",
+            "Accounts_sc": "通讯事务管理局营运基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Post Office Trading Fund",
+            "Accounts_c": "郵政署營運基金",
+            "Accounts_sc": "邮政署营运基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "AIDS Trust Fund",
+            "Accounts_c": "愛滋病信託基金",
+            "Accounts_sc": "爱滋病信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Bankruptcy Estates Account",
+            "Accounts_c": "破產人產業帳戶",
+            "Accounts_sc": "破产人产业帐户"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Brewin Trust Fund",
+            "Accounts_c": "蒲魯賢慈善信託基金",
+            "Accounts_sc": "蒲鲁贤慈善信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Chinese Temples Fund",
+            "Accounts_c": "華人廟宇基金",
+            "Accounts_sc": "华人庙宇基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Companies Liquidation Account",
+            "Accounts_c": "公司清盤帳戶",
+            "Accounts_sc": "公司清盘帐户"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Correctional Services Children’s Education Trust",
+            "Accounts_c": "懲教署人員子女教育信託基金",
+            "Accounts_sc": "惩教署人员子女教育信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Correctional Services Department Welfare Fund",
+            "Accounts_c": "懲教署福利基金",
+            "Accounts_sc": "惩教署福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Customs and Excise Service Children’s Education Trust Fund",
+            "Accounts_c": "香港海關人員子女教育信託基金",
+            "Accounts_sc": "香港海关人员子女教育信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Customs and Excise Service Welfare Fund",
+            "Accounts_c": "香港海關福利基金",
+            "Accounts_sc": "香港海关福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Director of Social Welfare Incorporated Accounts",
+            "Accounts_c": "社會福利署署長法團帳目",
+            "Accounts_sc": "社会福利署署长法团帐目"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "District Court Suitors’ Funds",
+            "Accounts_c": "區域法院訴訟人儲存金",
+            "Accounts_sc": "区域法院诉讼人储存金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Early Retirement Ex-gratia Payment Fund for Aided Secondary School Teachers",
+            "Accounts_c": "資助中學教師提早退休特惠金基金",
+            "Accounts_sc": "资助中学教师提早退休特惠金基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Education Development Fund",
+            "Accounts_c": "教育發展基金",
+            "Accounts_sc": "教育发展基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Education Scholarships Fund",
+            "Accounts_c": "教育奬學基金",
+            "Accounts_sc": "教育奬学基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Emergency Relief Fund",
+            "Accounts_c": "緊急救援基金",
+            "Accounts_sc": "紧急救援基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Environment and Conservation Fund",
+            "Accounts_c": "環境及自然保育基金",
+            "Accounts_sc": "环境及自然保育基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Exchange Fund",
+            "Accounts_c": "外匯基金",
+            "Accounts_sc": "外汇基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Financial Reporting Council",
+            "Accounts_c": "財務匯報局",
+            "Accounts_sc": "财务汇报局"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Fire Services Department Welfare Fund",
+            "Accounts_c": "消防處福利基金",
+            "Accounts_sc": "消防处福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Fisheries Development Loan Fund",
+            "Accounts_c": "漁業發展貸款基金",
+            "Accounts_sc": "渔业发展贷款基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "General Chinese Charities Fund",
+            "Accounts_c": "華人慈善基金",
+            "Accounts_sc": "华人慈善基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Government Flying Service Welfare Fund",
+            "Accounts_c": "政府飛行服務隊福利基金",
+            "Accounts_sc": "政府飞行服务队福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Grant Schools Provident Fund",
+            "Accounts_c": "補助學校公積金",
+            "Accounts_sc": "补助学校公积金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Grantham Scholarships Fund",
+            "Accounts_c": "葛量洪獎學基金",
+            "Accounts_sc": "葛量洪奖学基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "High Court Suitors’ Funds",
+            "Accounts_c": "高等法院訴訟人儲存金",
+            "Accounts_sc": "高等法院诉讼人储存金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "HKSAR Government Scholarship Fund",
+            "Accounts_c": "香港特別行政區政府獎學基金",
+            "Accounts_sc": "香港特别行政区政府奖学基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Hong Kong Housing Authority",
+            "Accounts_c": "香港房屋委員會",
+            "Accounts_sc": "香港房屋委员会"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Hong Kong Rotary Club Students’ Loan Fund",
+            "Accounts_c": "香港扶輪社貸款助學金",
+            "Accounts_sc": "香港扶轮社贷款助学金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Immigration Service Welfare Fund",
+            "Accounts_c": "入境事務隊福利基金",
+            "Accounts_sc": "入境事务队福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Independent Commission Against Corruption Welfare Fund",
+            "Accounts_c": "廉政公署福利基金",
+            "Accounts_sc": "廉政公署福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "J. E. Joseph Trust Fund",
+            "Accounts_c": "約瑟信託基金",
+            "Accounts_sc": "约瑟信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Kadoorie Agricultural Aid Loan Fund",
+            "Accounts_c": "嘉道理農業輔助貸款基金",
+            "Accounts_sc": "嘉道理农业辅助贷款基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Labour Tribunal Suitors’ Funds",
+            "Accounts_c": "勞資審裁處訴訟人儲存金",
+            "Accounts_sc": "劳资审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Language Fund",
+            "Accounts_c": "語文基金",
+            "Accounts_sc": "语文基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Legal Aid Services Council",
+            "Accounts_c": "法律援助服務局",
+            "Accounts_sc": "法律援助服务局"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Li Po Chun Charitable Trust Fund",
+            "Accounts_c": "李寶椿慈善信託基金",
+            "Accounts_sc": "李宝椿慈善信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "MacLehose Fund",
+            "Accounts_c": "麥理浩基金",
+            "Accounts_sc": "麦理浩基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Master in Lunacy Account",
+            "Accounts_c": "精神病患者主事官帳目",
+            "Accounts_sc": "精神病患者主事官帐目"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Minor Employment Claims Adjudication Board Suitors’ Funds",
+            "Accounts_c": "小額薪酬索償仲裁處訴訟人儲存金",
+            "Accounts_sc": "小额薪酬索偿仲裁处诉讼人储存金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Official Administrator’s Account",
+            "Accounts_c": "遺產管理官帳目",
+            "Accounts_sc": "遗产管理官帐目"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Official Receiver in Bankruptcy Account",
+            "Accounts_c": "破產案中破產管理署署長帳戶",
+            "Accounts_sc": "破产案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Official Receiver in Voluntary Arrangement Account",
+            "Accounts_c": "自願安排個案中破產管理署署長帳戶",
+            "Accounts_sc": "自愿安排个案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Official Solicitor’s Accounts",
+            "Accounts_c": "法定代表律師帳目",
+            "Accounts_sc": "法定代表律师帐目"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Pneumoconiosis Ex Gratia Fund",
+            "Accounts_c": "肺塵埃沉着病特惠金基金",
+            "Accounts_sc": "肺尘埃沉着病特惠金基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Police Children’s Education Trust",
+            "Accounts_c": "警察子女教育信託基金",
+            "Accounts_sc": "警察子女教育信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Police Education and Welfare Trust",
+            "Accounts_c": "警察教育及福利信託基金",
+            "Accounts_sc": "警察教育及福利信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Police Welfare Fund",
+            "Accounts_c": "警察福利基金",
+            "Accounts_sc": "警察福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Prisoners’ Education Trust Fund",
+            "Accounts_c": "在囚人士教育信託基金",
+            "Accounts_sc": "在囚人士教育信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Prisoners’ Welfare Fund",
+            "Accounts_c": "犯人福利基金",
+            "Accounts_sc": "犯人福利基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Quality Education Fund",
+            "Accounts_c": "優質教育基金",
+            "Accounts_sc": "优质教育基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Queen Elizabeth Foundation for the Mentally Handicapped",
+            "Accounts_c": "伊利沙伯女皇弱智人士基金",
+            "Accounts_sc": "伊利沙伯女皇弱智人士基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Research Endowment Fund",
+            "Accounts_c": "研究基金",
+            "Accounts_sc": "研究基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Samaritan Fund",
+            "Accounts_c": "撒瑪利亞基金",
+            "Accounts_sc": "撒玛利亚基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Secretary for Home Affairs Incorporated Accounts",
+            "Accounts_c": "民政事務局局長法團帳目",
+            "Accounts_sc": "民政事务局局长法团帐目"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Self-financing Post-secondary Education Fund",
+            "Accounts_c": "自資專上教育基金",
+            "Accounts_sc": "自资专上教育基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Sing Tao Charitable Foundation Students’ Loan Fund",
+            "Accounts_c": "星島慈善基金貸款助學金",
+            "Accounts_sc": "星岛慈善基金贷款助学金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Sir David Trench Fund for Recreation",
+            "Accounts_c": "戴麟趾爵士康樂基金",
+            "Accounts_sc": "戴麟趾爵士康乐基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Sir Edward Youde Memorial Fund",
+            "Accounts_c": "尤德爵士紀念基金",
+            "Accounts_sc": "尤德爵士纪念基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Sir Robert Black Trust Fund",
+            "Accounts_c": "柏立基爵士信託基金",
+            "Accounts_sc": "柏立基爵士信托基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Small Claims Tribunal Suitors’ Funds",
+            "Accounts_c": "小額錢債審裁處訴訟人儲存金",
+            "Accounts_sc": "小额钱债审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Social Work Training Fund",
+            "Accounts_c": "社會工作訓練基金",
+            "Accounts_sc": "社会工作训练基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Statement of Deposits required pursuant to sections 35 and 35A of the Insurance Companies Ordinance",
+            "Accounts_c": "根據《保險公司條例》第 35 及 35A 條所持有的銀行存款",
+            "Accounts_sc": "根据《保险公司条例》第 35 及 35A 条所持有的银行存款"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Subsidized Schools Provident Fund",
+            "Accounts_c": "津貼學校公積金",
+            "Accounts_sc": "津贴学校公积金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Supplementary Legal Aid Fund",
+            "Accounts_c": "法律援助輔助計劃基金",
+            "Accounts_sc": "法律援助辅助计划基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "The Legislative Council Commission",
+            "Accounts_c": "立法會行政管理委員會",
+            "Accounts_sc": "立法会行政管理委员会"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "Traffic Accident Victims Assistance Fund",
+            "Accounts_c": "交通意外傷亡者援助基金",
+            "Accounts_sc": "交通意外伤亡者援助基金"
+        },
+        {
+            "Year": "2013-14",
+            "Accounts": "World Refugee Year Loan Fund",
+            "Accounts_c": "世界難民年貸款基金",
+            "Accounts_sc": "世界难民年贷款基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "General Revenue Account",
+            "Accounts_c": "政府一般收入帳目",
+            "Accounts_sc": "政府一般收入帐目"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Bond Fund",
+            "Accounts_c": "債券基金",
+            "Accounts_sc": "债券基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Capital Investment Fund",
+            "Accounts_c": "資本投資基金",
+            "Accounts_sc": "资本投资基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Capital Works Reserve Fund",
+            "Accounts_c": "基本工程儲備基金",
+            "Accounts_sc": "基本工程储备基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Civil Service Pension Reserve Fund",
+            "Accounts_c": "公務員退休金儲備基金",
+            "Accounts_sc": "公务员退休金储备基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Disaster Relief Fund",
+            "Accounts_c": "賑災基金",
+            "Accounts_sc": "赈灾基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Innovation and Technology Fund",
+            "Accounts_c": "創新及科技基金",
+            "Accounts_sc": "创新及科技基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Land Fund",
+            "Accounts_c": "土地基金",
+            "Accounts_sc": "土地基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Loan Fund",
+            "Accounts_c": "貸款基金",
+            "Accounts_sc": "贷款基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Lotteries Fund",
+            "Accounts_c": "獎券基金",
+            "Accounts_sc": "奖券基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Companies Registry Trading Fund",
+            "Accounts_c": "公司註冊處營運基金",
+            "Accounts_sc": "公司注册处营运基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Electrical and Mechanical Services Trading Fund",
+            "Accounts_c": "機電工程營運基金",
+            "Accounts_sc": "机电工程营运基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Land Registry Trading Fund",
+            "Accounts_c": "土地註冊處營運基金",
+            "Accounts_sc": "土地注册处营运基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Office of the Communications Authority Trading Fund",
+            "Accounts_c": "通訊事務管理局營運基金",
+            "Accounts_sc": "通讯事务管理局营运基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Post Office Trading Fund",
+            "Accounts_c": "郵政署營運基金",
+            "Accounts_sc": "邮政署营运基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "AIDS Trust Fund",
+            "Accounts_c": "愛滋病信託基金",
+            "Accounts_sc": "爱滋病信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Bankruptcy Estates Account",
+            "Accounts_c": "破產人產業帳戶",
+            "Accounts_sc": "破产人产业帐户"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Brewin Trust Fund",
+            "Accounts_c": "蒲魯賢慈善信託基金",
+            "Accounts_sc": "蒲鲁贤慈善信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Chinese Temples Fund",
+            "Accounts_c": "華人廟宇基金",
+            "Accounts_sc": "华人庙宇基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Companies Liquidation Account",
+            "Accounts_c": "公司清盤帳戶",
+            "Accounts_sc": "公司清盘帐户"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Correctional Services Children’s Education Trust",
+            "Accounts_c": "懲教署人員子女教育信託基金",
+            "Accounts_sc": "惩教署人员子女教育信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Correctional Services Department Welfare Fund",
+            "Accounts_c": "懲教署福利基金",
+            "Accounts_sc": "惩教署福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Customs and Excise Service Children’s Education Trust Fund",
+            "Accounts_c": "香港海關人員子女教育信託基金",
+            "Accounts_sc": "香港海关人员子女教育信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Customs and Excise Service Welfare Fund",
+            "Accounts_c": "香港海關福利基金",
+            "Accounts_sc": "香港海关福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Director of Social Welfare Incorporated Accounts",
+            "Accounts_c": "社會福利署署長法團帳目",
+            "Accounts_sc": "社会福利署署长法团帐目"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "District Court Suitors’ Funds",
+            "Accounts_c": "區域法院訴訟人儲存金",
+            "Accounts_sc": "区域法院诉讼人储存金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Education Development Fund",
+            "Accounts_c": "教育發展基金",
+            "Accounts_sc": "教育发展基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Education Scholarships Fund",
+            "Accounts_c": "教育奬學基金",
+            "Accounts_sc": "教育奬学基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Emergency Relief Fund",
+            "Accounts_c": "緊急救援基金",
+            "Accounts_sc": "紧急救援基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Environment and Conservation Fund",
+            "Accounts_c": "環境及自然保育基金",
+            "Accounts_sc": "环境及自然保育基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Exchange Fund",
+            "Accounts_c": "外匯基金",
+            "Accounts_sc": "外汇基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Financial Reporting Council",
+            "Accounts_c": "財務匯報局",
+            "Accounts_sc": "财务汇报局"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Fire Services Department Welfare Fund",
+            "Accounts_c": "消防處福利基金",
+            "Accounts_sc": "消防处福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Fisheries Development Loan Fund",
+            "Accounts_c": "漁業發展貸款基金",
+            "Accounts_sc": "渔业发展贷款基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "General Chinese Charities Fund",
+            "Accounts_c": "華人慈善基金",
+            "Accounts_sc": "华人慈善基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Government Flying Service Welfare Fund",
+            "Accounts_c": "政府飛行服務隊福利基金",
+            "Accounts_sc": "政府飞行服务队福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Grant Schools Provident Fund",
+            "Accounts_c": "補助學校公積金",
+            "Accounts_sc": "补助学校公积金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Grantham Scholarships Fund",
+            "Accounts_c": "葛量洪獎學基金",
+            "Accounts_sc": "葛量洪奖学基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "High Court Suitors’ Funds",
+            "Accounts_c": "高等法院訴訟人儲存金",
+            "Accounts_sc": "高等法院诉讼人储存金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "HKSAR Government Scholarship Fund",
+            "Accounts_c": "香港特別行政區政府獎學基金",
+            "Accounts_sc": "香港特别行政区政府奖学基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Hong Kong Housing Authority",
+            "Accounts_c": "香港房屋委員會",
+            "Accounts_sc": "香港房屋委员会"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Hong Kong Rotary Club Students’ Loan Fund",
+            "Accounts_c": "香港扶輪社貸款助學金",
+            "Accounts_sc": "香港扶轮社贷款助学金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Immigration Service Welfare Fund",
+            "Accounts_c": "入境事務隊福利基金",
+            "Accounts_sc": "入境事务队福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Independent Commission Against Corruption Welfare Fund",
+            "Accounts_c": "廉政公署福利基金",
+            "Accounts_sc": "廉政公署福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "J. E. Joseph Trust Fund",
+            "Accounts_c": "約瑟信託基金",
+            "Accounts_sc": "约瑟信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Kadoorie Agricultural Aid Loan Fund",
+            "Accounts_c": "嘉道理農業輔助貸款基金",
+            "Accounts_sc": "嘉道理农业辅助贷款基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Labour Tribunal Suitors’ Funds",
+            "Accounts_c": "勞資審裁處訴訟人儲存金",
+            "Accounts_sc": "劳资审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Language Fund",
+            "Accounts_c": "語文基金",
+            "Accounts_sc": "语文基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Legal Aid Services Council",
+            "Accounts_c": "法律援助服務局",
+            "Accounts_sc": "法律援助服务局"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Li Po Chun Charitable Trust Fund",
+            "Accounts_c": "李寶椿慈善信託基金",
+            "Accounts_sc": "李宝椿慈善信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "MacLehose Fund",
+            "Accounts_c": "麥理浩基金",
+            "Accounts_sc": "麦理浩基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Master in Lunacy Account",
+            "Accounts_c": "精神病患者主事官帳目",
+            "Accounts_sc": "精神病患者主事官帐目"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Minor Employment Claims Adjudication Board Suitors’ Funds",
+            "Accounts_c": "小額薪酬索償仲裁處訴訟人儲存金",
+            "Accounts_sc": "小额薪酬索偿仲裁处诉讼人储存金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Official Administrator’s Account",
+            "Accounts_c": "遺產管理官帳目",
+            "Accounts_sc": "遗产管理官帐目"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Official Receiver in Bankruptcy Account",
+            "Accounts_c": "破產案中破產管理署署長帳戶",
+            "Accounts_sc": "破产案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Official Receiver in Voluntary Arrangement Account",
+            "Accounts_c": "自願安排個案中破產管理署署長帳戶",
+            "Accounts_sc": "自愿安排个案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Official Solicitor’s Accounts",
+            "Accounts_c": "法定代表律師帳目",
+            "Accounts_sc": "法定代表律师帐目"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Pneumoconiosis Ex Gratia Fund",
+            "Accounts_c": "肺塵埃沉着病特惠金基金",
+            "Accounts_sc": "肺尘埃沉着病特惠金基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Police Children’s Education Trust",
+            "Accounts_c": "警察子女教育信託基金",
+            "Accounts_sc": "警察子女教育信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Police Education and Welfare Trust",
+            "Accounts_c": "警察教育及福利信託基金",
+            "Accounts_sc": "警察教育及福利信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Police Welfare Fund",
+            "Accounts_c": "警察福利基金",
+            "Accounts_sc": "警察福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Prisoners’ Education Trust Fund",
+            "Accounts_c": "在囚人士教育信託基金",
+            "Accounts_sc": "在囚人士教育信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Prisoners’ Welfare Fund",
+            "Accounts_c": "犯人福利基金",
+            "Accounts_sc": "犯人福利基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Quality Education Fund",
+            "Accounts_c": "優質教育基金",
+            "Accounts_sc": "优质教育基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Queen Elizabeth Foundation for the Mentally Handicapped",
+            "Accounts_c": "伊利沙伯女皇弱智人士基金",
+            "Accounts_sc": "伊利沙伯女皇弱智人士基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Research Endowment Fund",
+            "Accounts_c": "研究基金",
+            "Accounts_sc": "研究基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Samaritan Fund",
+            "Accounts_c": "撒瑪利亞基金",
+            "Accounts_sc": "撒玛利亚基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Secretary for Home Affairs Incorporated Accounts",
+            "Accounts_c": "民政事務局局長法團帳目",
+            "Accounts_sc": "民政事务局局长法团帐目"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Self-financing Post-secondary Education Fund",
+            "Accounts_c": "自資專上教育基金",
+            "Accounts_sc": "自资专上教育基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Sing Tao Charitable Foundation Students’ Loan Fund",
+            "Accounts_c": "星島慈善基金貸款助學金",
+            "Accounts_sc": "星岛慈善基金贷款助学金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Sir David Trench Fund for Recreation",
+            "Accounts_c": "戴麟趾爵士康樂基金",
+            "Accounts_sc": "戴麟趾爵士康乐基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Sir Edward Youde Memorial Fund",
+            "Accounts_c": "尤德爵士紀念基金",
+            "Accounts_sc": "尤德爵士纪念基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Sir Robert Black Trust Fund",
+            "Accounts_c": "柏立基爵士信託基金",
+            "Accounts_sc": "柏立基爵士信托基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Small Claims Tribunal Suitors’ Funds",
+            "Accounts_c": "小額錢債審裁處訴訟人儲存金",
+            "Accounts_sc": "小额钱债审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Social Work Training Fund",
+            "Accounts_c": "社會工作訓練基金",
+            "Accounts_sc": "社会工作训练基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Statement of Deposits required pursuant to sections 35 and 35A of the Insurance Companies Ordinance",
+            "Accounts_c": "根據《保險公司條例》第 35 及 35A 條所持有的銀行存款",
+            "Accounts_sc": "根据《保险公司条例》第 35 及 35A 条所持有的银行存款"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Subsidized Schools Provident Fund",
+            "Accounts_c": "津貼學校公積金",
+            "Accounts_sc": "津贴学校公积金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Supplementary Legal Aid Fund",
+            "Accounts_c": "法律援助輔助計劃基金",
+            "Accounts_sc": "法律援助辅助计划基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "The Legislative Council Commission",
+            "Accounts_c": "立法會行政管理委員會",
+            "Accounts_sc": "立法会行政管理委员会"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "Traffic Accident Victims Assistance Fund",
+            "Accounts_c": "交通意外傷亡者援助基金",
+            "Accounts_sc": "交通意外伤亡者援助基金"
+        },
+        {
+            "Year": "2014-15",
+            "Accounts": "World Refugee Year Loan Fund",
+            "Accounts_c": "世界難民年貸款基金",
+            "Accounts_sc": "世界难民年贷款基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "General Revenue Account",
+            "Accounts_c": "政府一般收入帳目",
+            "Accounts_sc": "政府一般收入帐目"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Bond Fund",
+            "Accounts_c": "債券基金",
+            "Accounts_sc": "债券基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Capital Investment Fund",
+            "Accounts_c": "資本投資基金",
+            "Accounts_sc": "资本投资基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Capital Works Reserve Fund",
+            "Accounts_c": "基本工程儲備基金",
+            "Accounts_sc": "基本工程储备基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Civil Service Pension Reserve Fund",
+            "Accounts_c": "公務員退休金儲備基金",
+            "Accounts_sc": "公务员退休金储备基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Disaster Relief Fund",
+            "Accounts_c": "賑災基金",
+            "Accounts_sc": "赈灾基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Innovation and Technology Fund",
+            "Accounts_c": "創新及科技基金",
+            "Accounts_sc": "创新及科技基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Land Fund",
+            "Accounts_c": "土地基金",
+            "Accounts_sc": "土地基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Loan Fund",
+            "Accounts_c": "貸款基金",
+            "Accounts_sc": "贷款基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Lotteries Fund",
+            "Accounts_c": "獎券基金",
+            "Accounts_sc": "奖券基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Companies Registry Trading Fund",
+            "Accounts_c": "公司註冊處營運基金",
+            "Accounts_sc": "公司注册处营运基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Electrical and Mechanical Services Trading Fund",
+            "Accounts_c": "機電工程營運基金",
+            "Accounts_sc": "机电工程营运基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Land Registry Trading Fund",
+            "Accounts_c": "土地註冊處營運基金",
+            "Accounts_sc": "土地注册处营运基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Office of the Communications Authority Trading Fund",
+            "Accounts_c": "通訊事務管理局營運基金",
+            "Accounts_sc": "通讯事务管理局营运基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Post Office Trading Fund",
+            "Accounts_c": "郵政署營運基金",
+            "Accounts_sc": "邮政署营运基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "AIDS Trust Fund",
+            "Accounts_c": "愛滋病信託基金",
+            "Accounts_sc": "爱滋病信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Bankruptcy Estates Account",
+            "Accounts_c": "破產人產業帳戶",
+            "Accounts_sc": "破产人产业帐户"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Brewin Trust Fund",
+            "Accounts_c": "蒲魯賢慈善信託基金",
+            "Accounts_sc": "蒲鲁贤慈善信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Chinese Temples Fund",
+            "Accounts_c": "華人廟宇基金",
+            "Accounts_sc": "华人庙宇基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Companies Liquidation Account",
+            "Accounts_c": "公司清盤帳戶",
+            "Accounts_sc": "公司清盘帐户"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Correctional Services Children’s Education Trust",
+            "Accounts_c": "懲教署人員子女教育信託基金",
+            "Accounts_sc": "惩教署人员子女教育信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Correctional Services Department Welfare Fund",
+            "Accounts_c": "懲教署福利基金",
+            "Accounts_sc": "惩教署福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Customs and Excise Service Children’s Education Trust Fund",
+            "Accounts_c": "香港海關人員子女教育信託基金",
+            "Accounts_sc": "香港海关人员子女教育信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Customs and Excise Service Welfare Fund",
+            "Accounts_c": "香港海關福利基金",
+            "Accounts_sc": "香港海关福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Director of Social Welfare Incorporated Accounts",
+            "Accounts_c": "社會福利署署長法團帳目",
+            "Accounts_sc": "社会福利署署长法团帐目"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "District Court Suitors’ Funds",
+            "Accounts_c": "區域法院訴訟人儲存金",
+            "Accounts_sc": "区域法院诉讼人储存金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Education Development Fund",
+            "Accounts_c": "教育發展基金",
+            "Accounts_sc": "教育发展基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Education Scholarships Fund",
+            "Accounts_c": "教育奬學基金",
+            "Accounts_sc": "教育奬学基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Emergency Relief Fund",
+            "Accounts_c": "緊急救援基金",
+            "Accounts_sc": "紧急救援基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Environment and Conservation Fund",
+            "Accounts_c": "環境及自然保育基金",
+            "Accounts_sc": "环境及自然保育基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Exchange Fund",
+            "Accounts_c": "外匯基金",
+            "Accounts_sc": "外汇基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Financial Reporting Council",
+            "Accounts_c": "財務匯報局",
+            "Accounts_sc": "财务汇报局"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Fire Services Department Welfare Fund",
+            "Accounts_c": "消防處福利基金",
+            "Accounts_sc": "消防处福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Fisheries Development Loan Fund",
+            "Accounts_c": "漁業發展貸款基金",
+            "Accounts_sc": "渔业发展贷款基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "General Chinese Charities Fund",
+            "Accounts_c": "華人慈善基金",
+            "Accounts_sc": "华人慈善基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Government Flying Service Welfare Fund",
+            "Accounts_c": "政府飛行服務隊福利基金",
+            "Accounts_sc": "政府飞行服务队福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Grant Schools Provident Fund",
+            "Accounts_c": "補助學校公積金",
+            "Accounts_sc": "补助学校公积金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Grantham Scholarships Fund",
+            "Accounts_c": "葛量洪獎學基金",
+            "Accounts_sc": "葛量洪奖学基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "High Court Suitors’ Funds",
+            "Accounts_c": "高等法院訴訟人儲存金",
+            "Accounts_sc": "高等法院诉讼人储存金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "HKSAR Government Scholarship Fund",
+            "Accounts_c": "香港特別行政區政府獎學基金",
+            "Accounts_sc": "香港特别行政区政府奖学基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Hong Kong Housing Authority",
+            "Accounts_c": "香港房屋委員會",
+            "Accounts_sc": "香港房屋委员会"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Hong Kong Rotary Club Students’ Loan Fund",
+            "Accounts_c": "香港扶輪社貸款助學金",
+            "Accounts_sc": "香港扶轮社贷款助学金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Immigration Service Welfare Fund",
+            "Accounts_c": "入境事務隊福利基金",
+            "Accounts_sc": "入境事务队福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Independent Commission Against Corruption Welfare Fund",
+            "Accounts_c": "廉政公署福利基金",
+            "Accounts_sc": "廉政公署福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "J. E. Joseph Trust Fund",
+            "Accounts_c": "約瑟信託基金",
+            "Accounts_sc": "约瑟信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Kadoorie Agricultural Aid Loan Fund",
+            "Accounts_c": "嘉道理農業輔助貸款基金",
+            "Accounts_sc": "嘉道理农业辅助贷款基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Labour Tribunal Suitors’ Funds",
+            "Accounts_c": "勞資審裁處訴訟人儲存金",
+            "Accounts_sc": "劳资审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Language Fund",
+            "Accounts_c": "語文基金",
+            "Accounts_sc": "语文基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Legal Aid Services Council",
+            "Accounts_c": "法律援助服務局",
+            "Accounts_sc": "法律援助服务局"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Li Po Chun Charitable Trust Fund",
+            "Accounts_c": "李寶椿慈善信託基金",
+            "Accounts_sc": "李宝椿慈善信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "MacLehose Fund",
+            "Accounts_c": "麥理浩基金",
+            "Accounts_sc": "麦理浩基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Master in Lunacy Account",
+            "Accounts_c": "精神病患者主事官帳目",
+            "Accounts_sc": "精神病患者主事官帐目"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Minor Employment Claims Adjudication Board Suitors’ Funds",
+            "Accounts_c": "小額薪酬索償仲裁處訴訟人儲存金",
+            "Accounts_sc": "小额薪酬索偿仲裁处诉讼人储存金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Official Administrator’s Account",
+            "Accounts_c": "遺產管理官帳目",
+            "Accounts_sc": "遗产管理官帐目"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Official Receiver in Bankruptcy Account",
+            "Accounts_c": "破產案中破產管理署署長帳戶",
+            "Accounts_sc": "破产案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Official Receiver in Voluntary Arrangement Account",
+            "Accounts_c": "自願安排個案中破產管理署署長帳戶",
+            "Accounts_sc": "自愿安排个案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Official Solicitor’s Accounts",
+            "Accounts_c": "法定代表律師帳目",
+            "Accounts_sc": "法定代表律师帐目"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Pneumoconiosis Ex Gratia Fund",
+            "Accounts_c": "肺塵埃沉着病特惠金基金",
+            "Accounts_sc": "肺尘埃沉着病特惠金基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Police Children’s Education Trust",
+            "Accounts_c": "警察子女教育信託基金",
+            "Accounts_sc": "警察子女教育信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Police Education and Welfare Trust",
+            "Accounts_c": "警察教育及福利信託基金",
+            "Accounts_sc": "警察教育及福利信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Police Welfare Fund",
+            "Accounts_c": "警察福利基金",
+            "Accounts_sc": "警察福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Prisoners’ Education Trust Fund",
+            "Accounts_c": "在囚人士教育信託基金",
+            "Accounts_sc": "在囚人士教育信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Prisoners’ Welfare Fund",
+            "Accounts_c": "犯人福利基金",
+            "Accounts_sc": "犯人福利基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Qualifications Framework Fund",
+            "Accounts_c": "資歷架構基金",
+            "Accounts_sc": "资历架构基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Quality Education Fund",
+            "Accounts_c": "優質教育基金",
+            "Accounts_sc": "优质教育基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Queen Elizabeth Foundation for the Mentally Handicapped",
+            "Accounts_c": "伊利沙伯女皇弱智人士基金",
+            "Accounts_sc": "伊利沙伯女皇弱智人士基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Research Endowment Fund",
+            "Accounts_c": "研究基金",
+            "Accounts_sc": "研究基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Samaritan Fund",
+            "Accounts_c": "撒瑪利亞基金",
+            "Accounts_sc": "撒玛利亚基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Secretary for Home Affairs Incorporated Accounts",
+            "Accounts_c": "民政事務局局長法團帳目",
+            "Accounts_sc": "民政事务局局长法团帐目"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Self-financing Post-secondary Education Fund",
+            "Accounts_c": "自資專上教育基金",
+            "Accounts_sc": "自资专上教育基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Sing Tao Charitable Foundation Students’ Loan Fund",
+            "Accounts_c": "星島慈善基金貸款助學金",
+            "Accounts_sc": "星岛慈善基金贷款助学金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Sir David Trench Fund for Recreation",
+            "Accounts_c": "戴麟趾爵士康樂基金",
+            "Accounts_sc": "戴麟趾爵士康乐基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Sir Edward Youde Memorial Fund",
+            "Accounts_c": "尤德爵士紀念基金",
+            "Accounts_sc": "尤德爵士纪念基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Sir Robert Black Trust Fund",
+            "Accounts_c": "柏立基爵士信託基金",
+            "Accounts_sc": "柏立基爵士信托基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Small Claims Tribunal Suitors’ Funds",
+            "Accounts_c": "小額錢債審裁處訴訟人儲存金",
+            "Accounts_sc": "小额钱债审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Social Work Training Fund",
+            "Accounts_c": "社會工作訓練基金",
+            "Accounts_sc": "社会工作训练基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Statement of Deposits required pursuant to sections 35 and 35A of the Insurance Companies Ordinance",
+            "Accounts_c": "根據《保險公司條例》第 35 及 35A 條所持有的銀行存款",
+            "Accounts_sc": "根据《保险公司条例》第 35 及 35A 条所持有的银行存款"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Subsidized Schools Provident Fund",
+            "Accounts_c": "津貼學校公積金",
+            "Accounts_sc": "津贴学校公积金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Supplementary Legal Aid Fund",
+            "Accounts_c": "法律援助輔助計劃基金",
+            "Accounts_sc": "法律援助辅助计划基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "The Legislative Council Commission",
+            "Accounts_c": "立法會行政管理委員會",
+            "Accounts_sc": "立法会行政管理委员会"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "Traffic Accident Victims Assistance Fund",
+            "Accounts_c": "交通意外傷亡者援助基金",
+            "Accounts_sc": "交通意外伤亡者援助基金"
+        },
+        {
+            "Year": "2015-16",
+            "Accounts": "World Refugee Year Loan Fund",
+            "Accounts_c": "世界難民年貸款基金",
+            "Accounts_sc": "世界难民年贷款基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "General Revenue Account",
+            "Accounts_c": "政府一般收入帳目",
+            "Accounts_sc": "政府一般收入帐目"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Bond Fund",
+            "Accounts_c": "債券基金",
+            "Accounts_sc": "债券基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Capital Investment Fund",
+            "Accounts_c": "資本投資基金",
+            "Accounts_sc": "资本投资基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Capital Works Reserve Fund",
+            "Accounts_c": "基本工程儲備基金",
+            "Accounts_sc": "基本工程储备基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Civil Service Pension Reserve Fund",
+            "Accounts_c": "公務員退休金儲備基金",
+            "Accounts_sc": "公务员退休金储备基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Disaster Relief Fund",
+            "Accounts_c": "賑災基金",
+            "Accounts_sc": "赈灾基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Innovation and Technology Fund",
+            "Accounts_c": "創新及科技基金",
+            "Accounts_sc": "创新及科技基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Land Fund",
+            "Accounts_c": "土地基金",
+            "Accounts_sc": "土地基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Loan Fund",
+            "Accounts_c": "貸款基金",
+            "Accounts_sc": "贷款基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Lotteries Fund",
+            "Accounts_c": "獎券基金",
+            "Accounts_sc": "奖券基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Companies Registry Trading Fund",
+            "Accounts_c": "公司註冊處營運基金",
+            "Accounts_sc": "公司注册处营运基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Electrical and Mechanical Services Trading Fund",
+            "Accounts_c": "機電工程營運基金",
+            "Accounts_sc": "机电工程营运基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Land Registry Trading Fund",
+            "Accounts_c": "土地註冊處營運基金",
+            "Accounts_sc": "土地注册处营运基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Office of the Communications Authority Trading Fund",
+            "Accounts_c": "通訊事務管理局營運基金",
+            "Accounts_sc": "通讯事务管理局营运基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Post Office Trading Fund",
+            "Accounts_c": "郵政署營運基金",
+            "Accounts_sc": "邮政署营运基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "AIDS Trust Fund",
+            "Accounts_c": "愛滋病信託基金",
+            "Accounts_sc": "爱滋病信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Bankruptcy Estates Account",
+            "Accounts_c": "破產人產業帳戶",
+            "Accounts_sc": "破产人产业帐户"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Brewin Trust Fund",
+            "Accounts_c": "蒲魯賢慈善信託基金",
+            "Accounts_sc": "蒲鲁贤慈善信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Chinese Temples Fund",
+            "Accounts_c": "華人廟宇基金",
+            "Accounts_sc": "华人庙宇基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Companies Liquidation Account",
+            "Accounts_c": "公司清盤帳戶",
+            "Accounts_sc": "公司清盘帐户"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Correctional Services Children’s Education Trust",
+            "Accounts_c": "懲教署人員子女教育信託基金",
+            "Accounts_sc": "惩教署人员子女教育信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Correctional Services Department Welfare Fund",
+            "Accounts_c": "懲教署福利基金",
+            "Accounts_sc": "惩教署福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Customs and Excise Service Children’s Education Trust Fund",
+            "Accounts_c": "香港海關人員子女教育信託基金",
+            "Accounts_sc": "香港海关人员子女教育信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Customs and Excise Service Welfare Fund",
+            "Accounts_c": "香港海關福利基金",
+            "Accounts_sc": "香港海关福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Director of Social Welfare Incorporated Accounts",
+            "Accounts_c": "社會福利署署長法團帳目",
+            "Accounts_sc": "社会福利署署长法团帐目"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "District Court Suitors’ Funds",
+            "Accounts_c": "區域法院訴訟人儲存金",
+            "Accounts_sc": "区域法院诉讼人储存金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Education Development Fund",
+            "Accounts_c": "教育發展基金",
+            "Accounts_sc": "教育发展基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Education Scholarships Fund",
+            "Accounts_c": "教育奬學基金",
+            "Accounts_sc": "教育奬学基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Emergency Relief Fund",
+            "Accounts_c": "緊急救援基金",
+            "Accounts_sc": "紧急救援基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Environment and Conservation Fund",
+            "Accounts_c": "環境及自然保育基金",
+            "Accounts_sc": "环境及自然保育基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Exchange Fund",
+            "Accounts_c": "外匯基金",
+            "Accounts_sc": "外汇基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Financial Reporting Council",
+            "Accounts_c": "財務匯報局",
+            "Accounts_sc": "财务汇报局"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Fire Services Department Welfare Fund",
+            "Accounts_c": "消防處福利基金",
+            "Accounts_sc": "消防处福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Fisheries Development Loan Fund",
+            "Accounts_c": "漁業發展貸款基金",
+            "Accounts_sc": "渔业发展贷款基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "General Chinese Charities Fund",
+            "Accounts_c": "華人慈善基金",
+            "Accounts_sc": "华人慈善基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Government Flying Service Welfare Fund",
+            "Accounts_c": "政府飛行服務隊福利基金",
+            "Accounts_sc": "政府飞行服务队福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Grant Schools Provident Fund",
+            "Accounts_c": "補助學校公積金",
+            "Accounts_sc": "补助学校公积金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Grantham Scholarships Fund",
+            "Accounts_c": "葛量洪獎學基金",
+            "Accounts_sc": "葛量洪奖学基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "High Court Suitors’ Funds",
+            "Accounts_c": "高等法院訴訟人儲存金",
+            "Accounts_sc": "高等法院诉讼人储存金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "HKSAR Government Scholarship Fund",
+            "Accounts_c": "香港特別行政區政府獎學基金",
+            "Accounts_sc": "香港特别行政区政府奖学基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Hong Kong Housing Authority",
+            "Accounts_c": "香港房屋委員會",
+            "Accounts_sc": "香港房屋委员会"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Hong Kong Rotary Club Students’ Loan Fund",
+            "Accounts_c": "香港扶輪社貸款助學金",
+            "Accounts_sc": "香港扶轮社贷款助学金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Immigration Service Welfare Fund",
+            "Accounts_c": "入境事務隊福利基金",
+            "Accounts_sc": "入境事务队福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Independent Commission Against Corruption Welfare Fund",
+            "Accounts_c": "廉政公署福利基金",
+            "Accounts_sc": "廉政公署福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "J. E. Joseph Trust Fund",
+            "Accounts_c": "約瑟信託基金",
+            "Accounts_sc": "约瑟信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Kadoorie Agricultural Aid Loan Fund",
+            "Accounts_c": "嘉道理農業輔助貸款基金",
+            "Accounts_sc": "嘉道理农业辅助贷款基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Labour Tribunal Suitors’ Funds",
+            "Accounts_c": "勞資審裁處訴訟人儲存金",
+            "Accounts_sc": "劳资审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Language Fund",
+            "Accounts_c": "語文基金",
+            "Accounts_sc": "语文基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Legal Aid Services Council",
+            "Accounts_c": "法律援助服務局",
+            "Accounts_sc": "法律援助服务局"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Li Po Chun Charitable Trust Fund",
+            "Accounts_c": "李寶椿慈善信託基金",
+            "Accounts_sc": "李宝椿慈善信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "MacLehose Fund",
+            "Accounts_c": "麥理浩基金",
+            "Accounts_sc": "麦理浩基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Master in Lunacy Account",
+            "Accounts_c": "精神病患者主事官帳目",
+            "Accounts_sc": "精神病患者主事官帐目"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Minor Employment Claims Adjudication Board Suitors’ Funds",
+            "Accounts_c": "小額薪酬索償仲裁處訴訟人儲存金",
+            "Accounts_sc": "小额薪酬索偿仲裁处诉讼人储存金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Official Administrator’s Account",
+            "Accounts_c": "遺產管理官帳目",
+            "Accounts_sc": "遗产管理官帐目"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Official Receiver in Bankruptcy Account",
+            "Accounts_c": "破產案中破產管理署署長帳戶",
+            "Accounts_sc": "破产案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Official Receiver in Voluntary Arrangement Account",
+            "Accounts_c": "自願安排個案中破產管理署署長帳戶",
+            "Accounts_sc": "自愿安排个案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Official Solicitor’s Accounts",
+            "Accounts_c": "法定代表律師帳目",
+            "Accounts_sc": "法定代表律师帐目"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Pneumoconiosis Ex Gratia Fund",
+            "Accounts_c": "肺塵埃沉着病特惠金基金",
+            "Accounts_sc": "肺尘埃沉着病特惠金基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Police Children’s Education Trust",
+            "Accounts_c": "警察子女教育信託基金",
+            "Accounts_sc": "警察子女教育信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Police Education and Welfare Trust",
+            "Accounts_c": "警察教育及福利信託基金",
+            "Accounts_sc": "警察教育及福利信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Police Welfare Fund",
+            "Accounts_c": "警察福利基金",
+            "Accounts_sc": "警察福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Prisoners’ Education Trust Fund",
+            "Accounts_c": "在囚人士教育信託基金",
+            "Accounts_sc": "在囚人士教育信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Prisoners’ Welfare Fund",
+            "Accounts_c": "犯人福利基金",
+            "Accounts_sc": "犯人福利基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Qualifications Framework Fund",
+            "Accounts_c": "資歷架構基金",
+            "Accounts_sc": "资历架构基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Quality Education Fund",
+            "Accounts_c": "優質教育基金",
+            "Accounts_sc": "优质教育基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Queen Elizabeth Foundation for the Mentally Handicapped",
+            "Accounts_c": "伊利沙伯女皇弱智人士基金",
+            "Accounts_sc": "伊利沙伯女皇弱智人士基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Research Endowment Fund",
+            "Accounts_c": "研究基金",
+            "Accounts_sc": "研究基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Samaritan Fund",
+            "Accounts_c": "撒瑪利亞基金",
+            "Accounts_sc": "撒玛利亚基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Secretary for Home Affairs Incorporated Accounts",
+            "Accounts_c": "民政事務局局長法團帳目",
+            "Accounts_sc": "民政事务局局长法团帐目"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Self-financing Post-secondary Education Fund",
+            "Accounts_c": "自資專上教育基金",
+            "Accounts_sc": "自资专上教育基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Sing Tao Charitable Foundation Students’ Loan Fund",
+            "Accounts_c": "星島慈善基金貸款助學金",
+            "Accounts_sc": "星岛慈善基金贷款助学金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Sir David Trench Fund for Recreation",
+            "Accounts_c": "戴麟趾爵士康樂基金",
+            "Accounts_sc": "戴麟趾爵士康乐基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Sir Edward Youde Memorial Fund",
+            "Accounts_c": "尤德爵士紀念基金",
+            "Accounts_sc": "尤德爵士纪念基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Sir Robert Black Trust Fund",
+            "Accounts_c": "柏立基爵士信託基金",
+            "Accounts_sc": "柏立基爵士信托基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Small Claims Tribunal Suitors’ Funds",
+            "Accounts_c": "小額錢債審裁處訴訟人儲存金",
+            "Accounts_sc": "小额钱债审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Social Work Training Fund",
+            "Accounts_c": "社會工作訓練基金",
+            "Accounts_sc": "社会工作训练基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Statement of Deposits required pursuant to sections 35 and 35A of the Insurance Companies Ordinance",
+            "Accounts_c": "根據《保險公司條例》第 35 及 35A 條所持有的銀行存款",
+            "Accounts_sc": "根据《保险公司条例》第 35 及 35A 条所持有的银行存款"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Subsidized Schools Provident Fund",
+            "Accounts_c": "津貼學校公積金",
+            "Accounts_sc": "津贴学校公积金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Supplementary Legal Aid Fund",
+            "Accounts_c": "法律援助輔助計劃基金",
+            "Accounts_sc": "法律援助辅助计划基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "The Legislative Council Commission",
+            "Accounts_c": "立法會行政管理委員會",
+            "Accounts_sc": "立法会行政管理委员会"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "Traffic Accident Victims Assistance Fund",
+            "Accounts_c": "交通意外傷亡者援助基金",
+            "Accounts_sc": "交通意外伤亡者援助基金"
+        },
+        {
+            "Year": "2016-17",
+            "Accounts": "World Refugee Year Loan Fund",
+            "Accounts_c": "世界難民年貸款基金",
+            "Accounts_sc": "世界难民年贷款基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "General Revenue Account",
+            "Accounts_c": "政府一般收入帳目",
+            "Accounts_sc": "政府一般收入帐目"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Bond Fund",
+            "Accounts_c": "債券基金",
+            "Accounts_sc": "债券基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Capital Investment Fund",
+            "Accounts_c": "資本投資基金",
+            "Accounts_sc": "资本投资基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Capital Works Reserve Fund",
+            "Accounts_c": "基本工程儲備基金",
+            "Accounts_sc": "基本工程储备基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Civil Service Pension Reserve Fund",
+            "Accounts_c": "公務員退休金儲備基金",
+            "Accounts_sc": "公务员退休金储备基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Disaster Relief Fund",
+            "Accounts_c": "賑災基金",
+            "Accounts_sc": "赈灾基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Innovation and Technology Fund",
+            "Accounts_c": "創新及科技基金",
+            "Accounts_sc": "创新及科技基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Land Fund",
+            "Accounts_c": "土地基金",
+            "Accounts_sc": "土地基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Loan Fund",
+            "Accounts_c": "貸款基金",
+            "Accounts_sc": "贷款基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Lotteries Fund",
+            "Accounts_c": "獎券基金",
+            "Accounts_sc": "奖券基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Companies Registry Trading Fund",
+            "Accounts_c": "公司註冊處營運基金",
+            "Accounts_sc": "公司注册处营运基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Electrical and Mechanical Services Trading Fund",
+            "Accounts_c": "機電工程營運基金",
+            "Accounts_sc": "机电工程营运基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Land Registry Trading Fund",
+            "Accounts_c": "土地註冊處營運基金",
+            "Accounts_sc": "土地注册处营运基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Office of the Communications Authority Trading Fund",
+            "Accounts_c": "通訊事務管理局營運基金",
+            "Accounts_sc": "通讯事务管理局营运基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Post Office Trading Fund",
+            "Accounts_c": "郵政署營運基金",
+            "Accounts_sc": "邮政署营运基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "AIDS Trust Fund",
+            "Accounts_c": "愛滋病信託基金",
+            "Accounts_sc": "爱滋病信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Bankruptcy Estates Account",
+            "Accounts_c": "破產人產業帳戶",
+            "Accounts_sc": "破产人产业帐户"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Brewin Trust Fund",
+            "Accounts_c": "蒲魯賢慈善信託基金",
+            "Accounts_sc": "蒲鲁贤慈善信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Chinese Temples Fund",
+            "Accounts_c": "華人廟宇基金",
+            "Accounts_sc": "华人庙宇基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Companies Liquidation Account",
+            "Accounts_c": "公司清盤帳戶",
+            "Accounts_sc": "公司清盘帐户"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Correctional Services Children’s Education Trust",
+            "Accounts_c": "懲教署人員子女教育信託基金",
+            "Accounts_sc": "惩教署人员子女教育信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Correctional Services Department Welfare Fund",
+            "Accounts_c": "懲教署福利基金",
+            "Accounts_sc": "惩教署福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Customs and Excise Service Children’s Education Trust Fund",
+            "Accounts_c": "香港海關人員子女教育信託基金",
+            "Accounts_sc": "香港海关人员子女教育信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Customs and Excise Service Welfare Fund",
+            "Accounts_c": "香港海關福利基金",
+            "Accounts_sc": "香港海关福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Director of Social Welfare Incorporated Accounts",
+            "Accounts_c": "社會福利署署長法團帳目",
+            "Accounts_sc": "社会福利署署长法团帐目"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "District Court Suitors’ Funds",
+            "Accounts_c": "區域法院訴訟人儲存金",
+            "Accounts_sc": "区域法院诉讼人储存金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Education Development Fund",
+            "Accounts_c": "教育發展基金",
+            "Accounts_sc": "教育发展基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Education Scholarships Fund",
+            "Accounts_c": "教育奬學基金",
+            "Accounts_sc": "教育奬学基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Emergency Relief Fund",
+            "Accounts_c": "緊急救援基金",
+            "Accounts_sc": "紧急救援基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Environment and Conservation Fund",
+            "Accounts_c": "環境及自然保育基金",
+            "Accounts_sc": "环境及自然保育基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Exchange Fund",
+            "Accounts_c": "外匯基金",
+            "Accounts_sc": "外汇基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Financial Reporting Council",
+            "Accounts_c": "財務匯報局",
+            "Accounts_sc": "财务汇报局"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Fire Services Department Welfare Fund",
+            "Accounts_c": "消防處福利基金",
+            "Accounts_sc": "消防处福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Fisheries Development Loan Fund",
+            "Accounts_c": "漁業發展貸款基金",
+            "Accounts_sc": "渔业发展贷款基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "General Chinese Charities Fund",
+            "Accounts_c": "華人慈善基金",
+            "Accounts_sc": "华人慈善基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Gifted Education Fund",
+            "Accounts_c": "資優教育基金",
+            "Accounts_sc": "资优教育基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Government Flying Service Welfare Fund",
+            "Accounts_c": "政府飛行服務隊福利基金",
+            "Accounts_sc": "政府飞行服务队福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Grant Schools Provident Fund",
+            "Accounts_c": "補助學校公積金",
+            "Accounts_sc": "补助学校公积金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Grantham Scholarships Fund",
+            "Accounts_c": "葛量洪獎學基金",
+            "Accounts_sc": "葛量洪奖学基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "High Court Suitors’ Funds",
+            "Accounts_c": "高等法院訴訟人儲存金",
+            "Accounts_sc": "高等法院诉讼人储存金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "HKSAR Government Scholarship Fund",
+            "Accounts_c": "香港特別行政區政府獎學基金",
+            "Accounts_sc": "香港特别行政区政府奖学基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Hong Kong Housing Authority",
+            "Accounts_c": "香港房屋委員會",
+            "Accounts_sc": "香港房屋委员会"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Hong Kong Rotary Club Students’ Loan Fund",
+            "Accounts_c": "香港扶輪社貸款助學金",
+            "Accounts_sc": "香港扶轮社贷款助学金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Immigration Service Welfare Fund",
+            "Accounts_c": "入境事務隊福利基金",
+            "Accounts_sc": "入境事务队福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Independent Commission Against Corruption Welfare Fund",
+            "Accounts_c": "廉政公署福利基金",
+            "Accounts_sc": "廉政公署福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "J. E. Joseph Trust Fund",
+            "Accounts_c": "約瑟信託基金",
+            "Accounts_sc": "约瑟信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Kadoorie Agricultural Aid Loan Fund",
+            "Accounts_c": "嘉道理農業輔助貸款基金",
+            "Accounts_sc": "嘉道理农业辅助贷款基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Labour Tribunal Suitors’ Funds",
+            "Accounts_c": "勞資審裁處訴訟人儲存金",
+            "Accounts_sc": "劳资审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Language Fund",
+            "Accounts_c": "語文基金",
+            "Accounts_sc": "语文基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Legal Aid Services Council",
+            "Accounts_c": "法律援助服務局",
+            "Accounts_sc": "法律援助服务局"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Li Po Chun Charitable Trust Fund",
+            "Accounts_c": "李寶椿慈善信託基金",
+            "Accounts_sc": "李宝椿慈善信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "MacLehose Fund",
+            "Accounts_c": "麥理浩基金",
+            "Accounts_sc": "麦理浩基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Master in Lunacy Account",
+            "Accounts_c": "精神病患者主事官帳目",
+            "Accounts_sc": "精神病患者主事官帐目"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Minor Employment Claims Adjudication Board Suitors’ Funds",
+            "Accounts_c": "小額薪酬索償仲裁處訴訟人儲存金",
+            "Accounts_sc": "小额薪酬索偿仲裁处诉讼人储存金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Official Administrator’s Account",
+            "Accounts_c": "遺產管理官帳目",
+            "Accounts_sc": "遗产管理官帐目"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Official Receiver in Bankruptcy Account",
+            "Accounts_c": "破產案中破產管理署署長帳戶",
+            "Accounts_sc": "破产案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Official Receiver in Voluntary Arrangement Account",
+            "Accounts_c": "自願安排個案中破產管理署署長帳戶",
+            "Accounts_sc": "自愿安排个案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Official Solicitor’s Accounts",
+            "Accounts_c": "法定代表律師帳目",
+            "Accounts_sc": "法定代表律师帐目"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Pneumoconiosis Ex Gratia Fund",
+            "Accounts_c": "肺塵埃沉着病特惠金基金",
+            "Accounts_sc": "肺尘埃沉着病特惠金基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Police Children’s Education Trust",
+            "Accounts_c": "警察子女教育信託基金",
+            "Accounts_sc": "警察子女教育信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Police Education and Welfare Trust",
+            "Accounts_c": "警察教育及福利信託基金",
+            "Accounts_sc": "警察教育及福利信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Police Welfare Fund",
+            "Accounts_c": "警察福利基金",
+            "Accounts_sc": "警察福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Prisoners’ Education Trust Fund",
+            "Accounts_c": "在囚人士教育信託基金",
+            "Accounts_sc": "在囚人士教育信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Prisoners’ Welfare Fund",
+            "Accounts_c": "犯人福利基金",
+            "Accounts_sc": "犯人福利基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Qualifications Framework Fund",
+            "Accounts_c": "資歷架構基金",
+            "Accounts_sc": "资历架构基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Quality Education Fund",
+            "Accounts_c": "優質教育基金",
+            "Accounts_sc": "优质教育基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Queen Elizabeth Foundation for the Mentally Handicapped",
+            "Accounts_c": "伊利沙伯女皇弱智人士基金",
+            "Accounts_sc": "伊利沙伯女皇弱智人士基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Research Endowment Fund",
+            "Accounts_c": "研究基金",
+            "Accounts_sc": "研究基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Samaritan Fund",
+            "Accounts_c": "撒瑪利亞基金",
+            "Accounts_sc": "撒玛利亚基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Secretary for Home Affairs Incorporated Accounts",
+            "Accounts_c": "民政事務局局長法團帳目",
+            "Accounts_sc": "民政事务局局长法团帐目"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Self-financing Post-secondary Education Fund",
+            "Accounts_c": "自資專上教育基金",
+            "Accounts_sc": "自资专上教育基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Sing Tao Charitable Foundation Students’ Loan Fund",
+            "Accounts_c": "星島慈善基金貸款助學金",
+            "Accounts_sc": "星岛慈善基金贷款助学金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Sir David Trench Fund for Recreation",
+            "Accounts_c": "戴麟趾爵士康樂基金",
+            "Accounts_sc": "戴麟趾爵士康乐基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Sir Edward Youde Memorial Fund",
+            "Accounts_c": "尤德爵士紀念基金",
+            "Accounts_sc": "尤德爵士纪念基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Sir Robert Black Trust Fund",
+            "Accounts_c": "柏立基爵士信託基金",
+            "Accounts_sc": "柏立基爵士信托基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Small Claims Tribunal Suitors’ Funds",
+            "Accounts_c": "小額錢債審裁處訴訟人儲存金",
+            "Accounts_sc": "小额钱债审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Social Work Training Fund",
+            "Accounts_c": "社會工作訓練基金",
+            "Accounts_sc": "社会工作训练基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Statement of Deposits required pursuant to sections 35 and 35A of the Insurance Companies Ordinance",
+            "Accounts_c": "根據《保險公司條例》第 35 及 35A 條所持有的銀行存款",
+            "Accounts_sc": "根据《保险公司条例》第 35 及 35A 条所持有的银行存款"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Subsidized Schools Provident Fund",
+            "Accounts_c": "津貼學校公積金",
+            "Accounts_sc": "津贴学校公积金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Supplementary Legal Aid Fund",
+            "Accounts_c": "法律援助輔助計劃基金",
+            "Accounts_sc": "法律援助辅助计划基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "The Legislative Council Commission",
+            "Accounts_c": "立法會行政管理委員會",
+            "Accounts_sc": "立法会行政管理委员会"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "Traffic Accident Victims Assistance Fund",
+            "Accounts_c": "交通意外傷亡者援助基金",
+            "Accounts_sc": "交通意外伤亡者援助基金"
+        },
+        {
+            "Year": "2017-18",
+            "Accounts": "World Refugee Year Loan Fund",
+            "Accounts_c": "世界難民年貸款基金",
+            "Accounts_sc": "世界难民年贷款基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "General Revenue Account",
+            "Accounts_c": "政府一般收入帳目",
+            "Accounts_sc": "政府一般收入帐目"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Bond Fund",
+            "Accounts_c": "債券基金",
+            "Accounts_sc": "债券基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Capital Investment Fund",
+            "Accounts_c": "資本投資基金",
+            "Accounts_sc": "资本投资基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Capital Works Reserve Fund",
+            "Accounts_c": "基本工程儲備基金",
+            "Accounts_sc": "基本工程储备基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Civil Service Pension Reserve Fund",
+            "Accounts_c": "公務員退休金儲備基金",
+            "Accounts_sc": "公务员退休金储备基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Disaster Relief Fund",
+            "Accounts_c": "賑災基金",
+            "Accounts_sc": "赈灾基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Innovation and Technology Fund",
+            "Accounts_c": "創新及科技基金",
+            "Accounts_sc": "创新及科技基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Land Fund",
+            "Accounts_c": "土地基金",
+            "Accounts_sc": "土地基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Loan Fund",
+            "Accounts_c": "貸款基金",
+            "Accounts_sc": "贷款基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Lotteries Fund",
+            "Accounts_c": "獎券基金",
+            "Accounts_sc": "奖券基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Companies Registry Trading Fund",
+            "Accounts_c": "公司註冊處營運基金",
+            "Accounts_sc": "公司注册处营运基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Electrical and Mechanical Services Trading Fund",
+            "Accounts_c": "機電工程營運基金",
+            "Accounts_sc": "机电工程营运基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Land Registry Trading Fund",
+            "Accounts_c": "土地註冊處營運基金",
+            "Accounts_sc": "土地注册处营运基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Office of the Communications Authority Trading Fund",
+            "Accounts_c": "通訊事務管理局辦公室營運基金",
+            "Accounts_sc": "通讯事务管理局办公室营运基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Post Office Trading Fund",
+            "Accounts_c": "郵政署營運基金",
+            "Accounts_sc": "邮政署营运基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "AIDS Trust Fund",
+            "Accounts_c": "愛滋病信託基金",
+            "Accounts_sc": "爱滋病信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Bankruptcy Estate Account",
+            "Accounts_c": "破產人產業帳戶",
+            "Accounts_sc": "破产人产业帐户"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Brewin Trust Fund",
+            "Accounts_c": "蒲魯賢慈善信託基金",
+            "Accounts_sc": "蒲鲁贤慈善信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Chinese Temples Fund",
+            "Accounts_c": "華人廟宇基金",
+            "Accounts_sc": "华人庙宇基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Companies Liquidation Account",
+            "Accounts_c": "公司清盤帳戶",
+            "Accounts_sc": "公司清盘帐户"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Competition Tribunal Suitors’ Funds",
+            "Accounts_c": "競爭事務審裁處訴訟人儲存金",
+            "Accounts_sc": "竞争事务审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Correctional Services Children’s Education Trust",
+            "Accounts_c": "懲教署人員子女教育信託基金",
+            "Accounts_sc": "惩教署人员子女教育信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Correctional Services Department Welfare Fund",
+            "Accounts_c": "懲教署福利基金",
+            "Accounts_sc": "惩教署福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Customs and Excise Service Children’s Education Trust Fund",
+            "Accounts_c": "香港海關人員子女教育信託基金",
+            "Accounts_sc": "香港海关人员子女教育信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Customs and Excise Service Welfare Fund",
+            "Accounts_c": "香港海關福利基金",
+            "Accounts_sc": "香港海关福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Director of Social Welfare Incorporated Accounts",
+            "Accounts_c": "社會福利署署長法團帳目",
+            "Accounts_sc": "社会福利署署长法团帐目"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "District Court Suitors’ Funds",
+            "Accounts_c": "區域法院訴訟人儲存金",
+            "Accounts_sc": "区域法院诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Education Development Fund",
+            "Accounts_c": "教育發展基金",
+            "Accounts_sc": "教育发展基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Education Scholarships Fund",
+            "Accounts_c": "教育獎學基金",
+            "Accounts_sc": "教育奖学基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Emergency Relief Fund",
+            "Accounts_c": "緊急救援基金",
+            "Accounts_sc": "紧急救援基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Environment and Conservation Fund",
+            "Accounts_c": "環境及自然保育基金",
+            "Accounts_sc": "环境及自然保育基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Exchange Fund",
+            "Accounts_c": "外匯基金",
+            "Accounts_sc": "外汇基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Financial Reporting Council",
+            "Accounts_c": "財務匯報局",
+            "Accounts_sc": "财务汇报局"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Fire Services Department Welfare Fund",
+            "Accounts_c": "消防處福利基金",
+            "Accounts_sc": "消防处福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Fisheries Development Loan Fund",
+            "Accounts_c": "漁業發展貸款基金",
+            "Accounts_sc": "渔业发展贷款基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "General Chinese Charities Fund",
+            "Accounts_c": "華人慈善基金",
+            "Accounts_sc": "华人慈善基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Gifted Education Fund",
+            "Accounts_c": "資優教育基金",
+            "Accounts_sc": "资优教育基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Government Flying Service Welfare Fund",
+            "Accounts_c": "政府飛行服務隊福利基金",
+            "Accounts_sc": "政府飞行服务队福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Grant Schools Provident Fund",
+            "Accounts_c": "補助學校公積金",
+            "Accounts_sc": "补助学校公积金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Grantham Scholarships Fund",
+            "Accounts_c": "葛量洪獎學基金",
+            "Accounts_sc": "葛量洪奖学基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "High Court Suitors’ Funds",
+            "Accounts_c": "高等法院訴訟人儲存金",
+            "Accounts_sc": "高等法院诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "HKSAR Government Scholarship Fund",
+            "Accounts_c": "香港特別行政區政府獎學基金",
+            "Accounts_sc": "香港特别行政区政府奖学基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Hong Kong Court of Final Appeal Suitors’ Funds",
+            "Accounts_c": "香港終審法院訴訟人儲存金",
+            "Accounts_sc": "香港终审法院诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Hong Kong Housing Authority",
+            "Accounts_c": "香港房屋委員會",
+            "Accounts_sc": "香港房屋委员会"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Hong Kong Rotary Club Students’ Loan Fund",
+            "Accounts_c": "香港扶輪社貸款助學金",
+            "Accounts_sc": "香港扶轮社贷款助学金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Immigration Service Welfare Fund",
+            "Accounts_c": "入境事務隊福利基金",
+            "Accounts_sc": "入境事务队福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Independent Commission Against Corruption Welfare Fund",
+            "Accounts_c": "廉政公署福利基金",
+            "Accounts_sc": "廉政公署福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "J. E. Joseph Trust Fund",
+            "Accounts_c": "約瑟信託基金",
+            "Accounts_sc": "约瑟信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Kadoorie Agricultural Aid Loan Fund",
+            "Accounts_c": "嘉道理農業輔助貸款基金",
+            "Accounts_sc": "嘉道理农业辅助贷款基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Labour Tribunal Suitors’ Funds",
+            "Accounts_c": "勞資審裁處訴訟人儲存金",
+            "Accounts_sc": "劳资审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Lands Tribunal Suitors’ Funds",
+            "Accounts_c": "土地審裁處訴訟人儲存金",
+            "Accounts_sc": "土地审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Language Fund",
+            "Accounts_c": "語文基金",
+            "Accounts_sc": "语文基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Legal Aid Services Council",
+            "Accounts_c": "法律援助服務局",
+            "Accounts_sc": "法律援助服务局"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Li Po Chun Charitable Trust Fund",
+            "Accounts_c": "李寶椿慈善信託基金",
+            "Accounts_sc": "李宝椿慈善信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "MacLehose Fund",
+            "Accounts_c": "麥理浩基金",
+            "Accounts_sc": "麦理浩基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Master in Lunacy Account",
+            "Accounts_c": "主理精神病患者財產帳目聆案官帳戶",
+            "Accounts_sc": "主理精神病患者财产帐目聆案官帐户"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Minor Employment Claims Adjudication Board Suitors’ Funds",
+            "Accounts_c": "小額薪酬索償仲裁處訴訟人儲存金",
+            "Accounts_sc": "小额薪酬索偿仲裁处诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Official Administrator’s Account",
+            "Accounts_c": "遺產管理官帳戶",
+            "Accounts_sc": "遗产管理官帐户"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Official Receiver in Bankruptcy Account",
+            "Accounts_c": "破產案中破產管理署署長帳戶",
+            "Accounts_sc": "破产案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Official Receiver in Voluntary Arrangement Account",
+            "Accounts_c": "自願安排個案中破產管理署署長帳戶",
+            "Accounts_sc": "自愿安排个案中破产管理署署长帐户"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Official Solicitor’s Accounts",
+            "Accounts_c": "法定代表律師帳目",
+            "Accounts_sc": "法定代表律师帐目"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Pneumoconiosis Ex Gratia Fund",
+            "Accounts_c": "肺塵埃沉着病特惠基金",
+            "Accounts_sc": "肺尘埃沉着病特惠基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Police Children’s Education Trust",
+            "Accounts_c": "警察子女教育信託基金",
+            "Accounts_sc": "警察子女教育信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Police Education and Welfare Trust",
+            "Accounts_c": "警察教育及福利信託基金",
+            "Accounts_sc": "警察教育及福利信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Police Welfare Fund",
+            "Accounts_c": "警察福利基金",
+            "Accounts_sc": "警察福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Prisoners’ Education Trust Fund",
+            "Accounts_c": "在囚人士教育信託基金",
+            "Accounts_sc": "在囚人士教育信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Prisoners’ Welfare Fund",
+            "Accounts_c": "犯人福利基金",
+            "Accounts_sc": "犯人福利基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Qualifications Framework Fund",
+            "Accounts_c": "資歷架構基金",
+            "Accounts_sc": "资历架构基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Quality Education Fund",
+            "Accounts_c": "優質教育基金",
+            "Accounts_sc": "优质教育基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Queen Elizabeth Foundation for the Mentally Handicapped",
+            "Accounts_c": "伊利沙伯女皇弱智人士基金",
+            "Accounts_sc": "伊利沙伯女皇弱智人士基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Research Endowment Fund",
+            "Accounts_c": "研究基金",
+            "Accounts_sc": "研究基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Samaritan Fund",
+            "Accounts_c": "撒瑪利亞基金",
+            "Accounts_sc": "撒玛利亚基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Secretary for Home Affairs Incorporated Accounts",
+            "Accounts_c": "民政事務局局長法團帳目",
+            "Accounts_sc": "民政事务局局长法团帐目"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Self-financing Post-secondary Education Fund",
+            "Accounts_c": "自資專上教育基金",
+            "Accounts_sc": "自资专上教育基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Sing Tao Charitable Foundation Students’ Loan Fund",
+            "Accounts_c": "星島慈善基金貸款助學金",
+            "Accounts_sc": "星岛慈善基金贷款助学金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Sir David Trench Fund for Recreation",
+            "Accounts_c": "戴麟趾爵士康樂基金",
+            "Accounts_sc": "戴麟趾爵士康乐基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Sir Edward Youde Memorial Fund",
+            "Accounts_c": "尤德爵士紀念基金",
+            "Accounts_sc": "尤德爵士纪念基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Sir Robert Black Trust Fund",
+            "Accounts_c": "柏立基爵士信託基金",
+            "Accounts_sc": "柏立基爵士信托基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Small Claims Tribunal Suitors’ Funds",
+            "Accounts_c": "小額錢債審裁處訴訟人儲存金",
+            "Accounts_sc": "小额钱债审裁处诉讼人储存金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Social Work Training Fund",
+            "Accounts_c": "社會工作訓練基金",
+            "Accounts_sc": "社会工作训练基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Subsidized Schools Provident Fund",
+            "Accounts_c": "津貼學校公積金",
+            "Accounts_sc": "津贴学校公积金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Supplementary Legal Aid Fund",
+            "Accounts_c": "法律援助輔助計劃基金",
+            "Accounts_sc": "法律援助辅助计划基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "The Legislative Council Commission",
+            "Accounts_c": "立法會行政管理委員會",
+            "Accounts_sc": "立法会行政管理委员会"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "Traffic Accident Victims Assistance Fund",
+            "Accounts_c": "交通意外傷亡者援助基金",
+            "Accounts_sc": "交通意外伤亡者援助基金"
+        },
+        {
+            "Year": "2018-19",
+            "Accounts": "World Refugee Year Loan Fund",
+            "Accounts_c": "國際難民年貸款基金",
+            "Accounts_sc": "国际难民年贷款基金"
+        }
+    ]
+}
